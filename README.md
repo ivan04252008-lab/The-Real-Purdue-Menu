@@ -13,8 +13,8 @@ I want to solve the issue of needing to look at everything in the app manually t
 - Puts that data into a CSV file
 - Asks for either a name or tags
 - Outputs the Item and its nutritional information or a list of Items
-[link text]([https://url.com](https://lucid.app/lucidchart/e2c9d576-c7a0-4892-b5f6-e2b0c5f47438/edit?viewport_loc=-333%2C61%2C1451%2C847%2C0_0&invitationId=inv_758c136a-5372-4f98-be6f-7646049416a9))
-![System diagram](docs/diagram.png)
+[View the editable Lucidchart diagram here](https://lucid.app/lucidchart/e2c9d576-c7a0-4892-b5f6-e2b0c5f47438/edit?viewport_loc=-333%2C61%2C1451%2C847%2C0_0&invitationId=inv_758c136a-5372-4f98-be6f-7646049416a9)
+![System diagram](docs/Blank%20diagram.png)
 
 ## Tech Stack
 
@@ -52,4 +52,4 @@ Features you haven't built yet but plan to (pull these from your
 
 ## Author
 
-Ivan Yang,[ ](https://github.com/ivan04252008-lab)
+Ivan Yang,[Link to my Profile](https://github.com/ivan04252008-lab)
